@@ -1,0 +1,341 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Abdul-Rauf and
+  Schwenk}2009]{abdulrauf-schwenk:2009:EACL}
+Sadaf Abdul-Rauf and Holger Schwenk.
+\newblock 2009.
+\newblock On the use of comparable corpora to improve {SMT} performance.
+\newblock In {\em Proceedings of the 12th Conference of the European Chapter of
+  the ACL (EACL 2009)}, pages 16--23, Athens, Greece, March. Association for
+  Computational Linguistics.
+
+\bibitem[\protect\citename{Ambati and Vogel}2010]{ambati:10}
+Vamshi Ambati and Stephan Vogel.
+\newblock 2010.
+\newblock Can crowds build parallel corpora for machine translation systems?
+\newblock In {\em Workshop on Creating Speech and Language Data with {MTurk}}.
+
+\bibitem[\protect\citename{Ambati \bgroup et al.\egroup }2010]{a7}
+Vamshi Ambati, Stephan Vogel, and Jaime~G Carbonell.
+\newblock 2010.
+\newblock Active learning and crowd-sourcing for machine translation.
+\newblock In {\em LREC}, volume~11, pages 2169--2174. Citeseer.
+
+\bibitem[\protect\citename{Ambati}2012]{AmbatiThesis}
+Vamshi Ambati.
+\newblock 2012.
+\newblock {\em Active Learning and Crowdsourcing for Machine Translation in Low
+  Resource Scenarios}.
+\newblock {Ph.D.} thesis, Language Technologies Institute, School of Computer
+  Science, Carnegie Mellon University, Pittsburgh, PA.
+
+\bibitem[\protect\citename{Bernstein \bgroup et al.\egroup
+  }2010]{bernstein-et-al:2010}
+Michael~S. Bernstein, Greg Little, Robert~C. Miller, Bjšrn Hartmann, Mark~S.
+  Ackerman, David~R. Karger, David Crowell, and Katrina Panovich.
+\newblock 2010.
+\newblock Soylent: a word processor with a crowd inside.
+\newblock In {\em Proceedings of the {ACM} Symposium on User Interface Software
+  and Technology ({UIST})}.
+
+\bibitem[\protect\citename{Bloodgood and
+  Callison-Burch}2010]{bloodgood-callisonburch:2010:ACL}
+Michael Bloodgood and Chris Callison-Burch.
+\newblock 2010.
+\newblock Large-scale cost-focused active learning for statistical machine
+  translation.
+\newblock In {\em Proceedings of the 48th Annual Meeting of the Association for
+  Computational Linguistics}.
+
+\bibitem[\protect\citename{Callison-Burch and
+  Dredze}2010]{callisonburch-dredze:2010:MTURK}
+Chris Callison-Burch and Mark Dredze.
+\newblock 2010.
+\newblock Creating speech and language data with {Amazon's Mechanical Turk}.
+\newblock In {\em Proceedings of the NAACL HLT 2010 Workshop on Creating Speech
+  and Language Data with Amazon's Mechanical Turk}, pages 1--12, Los Angeles,
+  June. Association for Computational Linguistics.
+
+\bibitem[\protect\citename{Callison-Burch}2005]{callisonburch:2005:NIST}
+Chris Callison-Burch.
+\newblock 2005.
+\newblock {Linear B} system description for the 2005 {NIST MT} evaluation
+  exercise.
+\newblock In {\em Proceedings of Machine Translation Evaluation Workshop}.
+
+\bibitem[\protect\citename{Callison-Burch}2009]{Callison-Burch2009}
+Chris Callison-Burch.
+\newblock 2009.
+\newblock Fast, cheap, and creative: Evaluating translation quality using
+  amazon's mechanical turk.
+\newblock In {\em Proceedings of EMNLP}.
+
+\bibitem[\protect\citename{Chen and Dolan}2012]{chen:2011}
+David~L. Chen and William~B. Dolan.
+\newblock 2012.
+\newblock Building a persistent workforce on mechanical turk for multilingual
+  data collection.
+\newblock In {\em Proceedings of the Human Computer Interaction International
+  Conference}.
+
+\bibitem[\protect\citename{Germann}2001]{a25}
+Ulrich Germann.
+\newblock 2001.
+\newblock Building a statistical machine translation system from scratch: How
+  much bang for the buck can we expect?
+\newblock In {\em Proceedings of the Workshop on Data-driven Methods in Machine
+  Translation - Volume 14}, DMMT '01, pages 1--8. Association for Computational
+  Linguistics.
+
+\bibitem[\protect\citename{Green \bgroup et al.\egroup
+  }2013]{Green:2013:EHP:2470654.2470718}
+Spence Green, Jeffrey Heer, and Christopher~D. Manning.
+\newblock 2013.
+\newblock The efficacy of human post-editing for language translation.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '13, pages 439--448, New York, NY, USA. ACM.
+
+\bibitem[\protect\citename{Hourcade \bgroup et al.\egroup
+  }2003]{hourcade2003international}
+Juan~Pablo Hourcade, Benjamin~B Bederson, Allison Druin, Anne Rose, Allison
+  Farber, and Yoshifumi Takayama.
+\newblock 2003.
+\newblock The international children's digital library: viewing digital books
+  online.
+\newblock {\em Interacting with Computers}, 15(2):151--167.
+
+\bibitem[\protect\citename{Hu \bgroup et al.\egroup }2010]{Hu:2010}
+Chang Hu, Benjamin~B. Bederson, and Philip Resnik.
+\newblock 2010.
+\newblock Translation by iterative collaboration between monolingual users.
+\newblock In {\em Proceedings of ACM SIGKDD Workshop on Human Computation
+  (HCOMP)}.
+
+\bibitem[\protect\citename{Hu \bgroup et al.\egroup }2011]{Hu:2011}
+Chang Hu, Benjamin~B. Bederson, Philip Resnik, and Yakov Kronrod.
+\newblock 2011.
+\newblock Monotrans2: A new human computation system to support monolingual
+  translation.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '11, pages 1133--1136.
+
+\bibitem[\protect\citename{Hu}2009]{Hu:2009}
+Chang Hu.
+\newblock 2009.
+\newblock Collaborative translation by monolingual users.
+\newblock In {\em CHI '09 Extended Abstracts on Human Factors in Computing
+  Systems}, CHI EA '09, pages 3105--3108.
+
+\bibitem[\protect\citename{Kay}1998]{Kay:1998:PPM:593142.593157}
+Martin Kay.
+\newblock 1998.
+\newblock The proper place of men and machines in language translation.
+\newblock {\em Machine Translation}, 12(1/2):3--23, January.
+
+\bibitem[\protect\citename{Knight and
+  Chander}1994]{Knight94automatedpostediting}
+Kevin Knight and Ishwar Chander.
+\newblock 1994.
+\newblock Automated postediting of documents.
+\newblock In {\em In Proceedings of AAAI}.
+
+\bibitem[\protect\citename{Koehn}2010]{koehn:2010:NAACLHLT}
+Philipp Koehn.
+\newblock 2010.
+\newblock Enabling monolingual translators: Post-editing vs. options.
+\newblock In {\em Human Language Technologies: The 2010 Annual Conference of
+  the North American Chapter of the Association for Computational Linguistics},
+  pages 537--545, Los Angeles, California, June. Association for Computational
+  Linguistics.
+
+\bibitem[\protect\citename{Langville and Meyer}2004]{a20}
+Amy~N Langville and Carl~D Meyer.
+\newblock 2004.
+\newblock Deeper inside pagerank.
+\newblock {\em Internet Mathematics}, 1(3):335--380.
+
+\bibitem[\protect\citename{Li \bgroup et al.\egroup }2010]{li-EtAl:2010:WMT}
+Zhifei Li, Chris Callison-Burch, Chris Dyer, Juri Ganitkevitch, Ann Irvine,
+  Sanjeev Khudanpur, Lane Schwartz, Wren Thornton, Ziyuan Wang, Jonathan Weese,
+  and Omar Zaidan.
+\newblock 2010.
+\newblock Joshua 2.0: A toolkit for parsing-based machine translation with
+  syntax, semirings, discriminative training and other goodies.
+\newblock In {\em Proceedings of the Joint Fifth Workshop on Statistical
+  Machine Translation and MetricsMATR}, pages 133--137, Uppsala, Sweden, July.
+  Association for Computational Linguistics.
+
+\bibitem[\protect\citename{Louis and Nenkova}2013]{a14}
+Annie Louis and Ani Nenkova.
+\newblock 2013.
+\newblock What makes writing great? first experiments on article quality
+  prediction in the science journalism domain.
+\newblock {\em Transactions of Association for Computational Linguistics}.
+
+\bibitem[\protect\citename{Manning \bgroup et al.\egroup }2008]{a16}
+Christopher~D Manning, Prabhakar Raghavan, and Hinrich Sch{\"u}tze.
+\newblock 2008.
+\newblock {\em Introduction to information retrieval}, volume~1.
+\newblock Cambridge University Press Cambridge.
+
+\bibitem[\protect\citename{Morita and Ishida}2009a]{Morita:2009:IUI}
+Daisuke Morita and Toru Ishida.
+\newblock 2009a.
+\newblock Collaborative translation by monolinguals with machine translators.
+\newblock In {\em Proceedings of the 14th International Conference on
+  Intelligent User Interfaces}, IUI '09, pages 361--366, New York, NY, USA.
+  ACM.
+
+\bibitem[\protect\citename{Morita and Ishida}2009b]{Morita:2009:PRIMA}
+Daisuke Morita and Toru Ishida.
+\newblock 2009b.
+\newblock Designing protocols for collaborative translation.
+\newblock In {\em International Conference on Principles of Practice in
+  Multi-Agent Systems (PRIMA-09)}, pages 17--32. Springer.
+
+\bibitem[\protect\citename{Munteanu and Marcu}2005]{a11}
+Dragos~Stefan Munteanu and Daniel Marcu.
+\newblock 2005.
+\newblock Improving machine translation performance by exploiting non-parallel
+  corpora.
+\newblock {\em Comput. Linguist.}, 31(4):477--504, December.
+
+\bibitem[\protect\citename{Papineni \bgroup et al.\egroup }2002]{a17}
+Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu.
+\newblock 2002.
+\newblock {BLEU}: A method for automatic evaluation of machine translation.
+\newblock In {\em Proceedings of the 40th Annual Meeting on Association for
+  Computational Linguistics}, ACL '02, pages 311--318. Association for
+  Computational Linguistics.
+
+\bibitem[\protect\citename{Pavlick \bgroup et al.\egroup }2014]{Pavlick:2014}
+Ellie Pavlick, Matt Post, Ann Irvine, Dmitry Kachaev, and Chris Callison-Burch.
+\newblock 2014.
+\newblock The language demographics of {Amazon Mechanical Turk}.
+\newblock {\em Transactions of the Association for Computational Linguistics
+  (TACL)}, 2(Feb):79--92.
+
+\bibitem[\protect\citename{Post \bgroup et al.\egroup
+  }2012]{post-callisonburch-osborne:2012:WMT}
+Matt Post, Chris Callison-Burch, and Miles Osborne.
+\newblock 2012.
+\newblock Constructing parallel corpora for six {Indian} languages via
+  crowdsourcing.
+\newblock In {\em Proceedings of the Seventh Workshop on Statistical Machine
+  Translation}.
+
+\bibitem[\protect\citename{Resnik and Smith}2003]{a10}
+Philip Resnik and Noah~A. Smith.
+\newblock 2003.
+\newblock The web as a parallel corpus.
+\newblock {\em Computational Linguistics}, 29(3):349--380, September.
+
+\bibitem[\protect\citename{Smith \bgroup et al.\egroup }2010]{a12}
+Jason~R. Smith, Chris Quirk, and Kristina Toutanova.
+\newblock 2010.
+\newblock Extracting parallel sentences from comparable corpora using document
+  level alignment.
+\newblock In {\em Human Language Technologies: The 2010 Annual Conference of
+  the North American Chapter of the Association for Computational Linguistics},
+  HLT '10, pages 403--411. Association for Computational Linguistics.
+
+\bibitem[\protect\citename{Smith \bgroup et al.\egroup
+  }2013]{smith-EtAl:2013:ACL}
+Jason Smith, Herve Saint-Amand, Magdalena Plamada, Philipp Koehn, Chris
+  Callison-Burch, and Adam Lopez.
+\newblock 2013.
+\newblock Dirt cheap web-scale parallel text from the {Common Crawl}.
+\newblock In {\em Proceedings of the 2013 Conference of the Association for
+  Computational Linguistics (ACL 2013)}, Sofia, Bulgaria, July. Association for
+  Computational Linguistics.
+
+\bibitem[\protect\citename{Snover \bgroup et al.\egroup }2006]{a18}
+Matthew Snover, Bonnie Dorr, Richard Schwartz, Linnea Micciulla, and John
+  Makhoul.
+\newblock 2006.
+\newblock A study of translation edit rate with targeted human annotation.
+\newblock In {\em Proceedings of association for machine translation in the
+  Americas}, pages 223--231.
+
+\bibitem[\protect\citename{Snow \bgroup et al.\egroup
+  }2008]{Snow-et-al:EMNLP:2008}
+Rion Snow, Brendan O'Connor, Daniel Jurafsky, and Andrew~Y. Ng.
+\newblock 2008.
+\newblock Cheap and fast---but is it good?: Evaluating non-expert annotations
+  for natural language tasks.
+\newblock In {\em Proceedings of the Conference on Empirical Methods in Natural
+  Language Processing}, EMNLP '08, pages 254--263. Association for
+  Computational Linguistics.
+
+\bibitem[\protect\citename{{TechCrunch}}2008]{Facebook-Crowdsourced-Translatio%
+n}
+{TechCrunch}.
+\newblock 2008.
+\newblock {Facebook} taps users to create translated versions of site, January.
+
+\bibitem[\protect\citename{Uszkoreit \bgroup et al.\egroup }2010]{a13}
+Jakob Uszkoreit, Jay~M. Ponte, Ashok~C. Popat, and Moshe Dubiner.
+\newblock 2010.
+\newblock Large scale parallel document mining for machine translation.
+\newblock In {\em Proceedings of the 23rd International Conference on
+  Computational Linguistics}, COLING '10, pages 1101--1109. Association for
+  Computational Linguistics.
+
+\bibitem[\protect\citename{von Ahn}2013]{vonAhn:2013:DLL:2449396.2449398}
+Luis von Ahn.
+\newblock 2013.
+\newblock Duolingo: Learn a language for free while helping to translate the
+  web.
+\newblock In {\em Proceedings of the 2013 International Conference on
+  Intelligent User Interfaces}, IUI '13, pages 1--2, New York, NY, USA. ACM.
+
+\bibitem[\protect\citename{Yan \bgroup et al.\egroup }2012a]{a28}
+Rui Yan, Mirella Lapata, and Xiaoming Li.
+\newblock 2012a.
+\newblock Tweet recommendation with graph co-ranking.
+\newblock In {\em Proceedings of the 50th Annual Meeting of the Association for
+  Computational Linguistics: Long Papers - Volume 1}, ACL '12, pages 516--525.
+  Association for Computational Linguistics.
+
+\bibitem[\protect\citename{Yan \bgroup et al.\egroup }2012b]{a30}
+Rui Yan, Xiaojun Wan, Mirella Lapata, Wayne~Xin Zhao, Pu-Jen Cheng, and
+  Xiaoming Li.
+\newblock 2012b.
+\newblock Visualizing timelines: Evolutionary summarization via iterative
+  reinforcement between text and image streams.
+\newblock In {\em Proceedings of the 21st ACM International Conference on
+  Information and Knowledge Management}, CIKM '12, pages 275--284, New York,
+  NY, USA. ACM.
+
+\bibitem[\protect\citename{Zaidan and
+  Callison-Burch}2011]{zaidan-callisonburch:2011:ACL-HLT2011a}
+Omar~F. Zaidan and Chris Callison-Burch.
+\newblock 2011.
+\newblock Crowdsourcing translation: Professional quality from
+  non-professionals.
+\newblock In {\em Proceedings of the 49th Annual Meeting of the Association for
+  Computational Linguistics: Human Language Technologies}, pages 1220--1229.
+  Association for Computational Linguistics.
+
+\bibitem[\protect\citename{Zbib \bgroup et al.\egroup
+  }2012]{Zbib-etal:2012:NAACL}
+Rabih Zbib, Erika Malchiodi, Jacob Devlin, David Stallard, Spyros Matsoukas,
+  Richard Schwartz, John Makhoul, Omar~F. Zaidan, and Chris Callison-Burch.
+\newblock 2012.
+\newblock Machine translation of {Arabic} dialects.
+\newblock In {\em The 2012 Conference of the North American Chapter of the
+  Association for Computational Linguistics}. Association for Computational
+  Linguistics.
+
+\bibitem[\protect\citename{Zbib \bgroup et al.\egroup
+  }2013]{zbib-EtAl:2013:NAACL-HLT}
+Rabih Zbib, Gretchen Markiewicz, Spyros Matsoukas, Richard Schwartz, and John
+  Makhoul.
+\newblock 2013.
+\newblock Systematic comparison of professional and crowdsourced reference
+  translations for machine translation.
+\newblock In {\em Proceedings of the 2013 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies}, Atlanta, Georgia.
+
+\end{thebibliography}
